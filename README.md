@@ -113,5 +113,8 @@ A zone with 1,000 violations on a main road scores higher than one with
 5. **AI Copilot** — Natural language interface for field officers using Claude API
 
 ---
+Dataset not included due to size constraints.
+Place the provided hackathon dataset in /data before running.
+
 
 *Built for Flipkart Grid Hackathon 2026 | Real data, real impact*
