@@ -1,3 +1,4 @@
-jan_to_may_police_violation_anonymized791b166.csv
-cache.pkl
 .streamlit/secrets.toml
+*.csv
+__pycache__/
+*.pyc
